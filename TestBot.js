@@ -1,5 +1,5 @@
 let
-	Revsil = require("./revsil"),
+	Revsil = require("./"),
 	util = require("util"),
 	humanize = require("humanize");
 	
