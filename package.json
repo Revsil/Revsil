@@ -1,11 +1,11 @@
 {
 	"name": "revsil",
 	"author": "Sorch <sorch@sorch.info> Allie <me@sixaiy.com>",
-	"version": "1.1-0",
+	"version": "1.0.0",
 	"description": "A NodeJS Revolt library",
 	"main": "./index",
 	"engines": {
-		"node": ">=v17.9.0"
+		"node": ">=17.9.0"
 	},
 	"homepage": "http://sorch.dev/discl",
 	"license": "AGPL-3.0-or-later",
