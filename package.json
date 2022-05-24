@@ -1,7 +1,7 @@
 {
 	"name": "revsil",
 	"author": "Sorch <sorch@sorch.info> Allie <me@sixaiy.com>",
-	"version": "0.2-rev1",
+	"version": "0.2-1",
 	"description": "A NodeJS Revolt library",
 	"main": "./index",
 	"engines": {
