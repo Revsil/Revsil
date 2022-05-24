@@ -1,0 +1,21 @@
+{
+	"name": "revsil",
+	"author": "Sorch <sorch@sorch.info> Allie <me@sixaiy.com>",
+	"version": "0.2-rev1",
+	"description": "A NodeJS Revolt library",
+	"main": "./index",
+	"engines": {
+		"node": ">=v17.9.0"
+	},
+	"homepage": "http://sorch.dev/discl",
+	"license": "AGPL-3.0-or-later",
+	"dependencies": {
+		"eventemitter3": "^4.0.7",
+		"humanize": "^0.0.9",
+		"node-fetch": "^2.6.7",
+		"ws": "^8.6.0"
+	},
+	"devDependencies": {
+		"eslint": "^6.5.1"
+	}
+}
