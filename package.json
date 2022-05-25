@@ -13,6 +13,7 @@
 		"eventemitter3": "^4.0.7",
 		"humanize": "^0.0.9",
 		"node-fetch": "^2.6.7",
+		"revolt-api": "^0.5.3-5-patch.3",
 		"ws": "^8.6.0"
 	},
 	"devDependencies": {
