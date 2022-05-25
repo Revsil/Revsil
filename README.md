@@ -1,7 +1,3 @@
-NOTE
-====
-This repository is only for development work, please clone the real repostiory at [https://github.com/Revsil/Revsil](https://github.com/Revsil/Revsil)
-
 Revsil.JS
 ====
 A Node.js wrapper for interfacing with Revolt API.
