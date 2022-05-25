@@ -10,7 +10,7 @@ function codeblock(text) {
 
 class TestBot {
 	constructor() {
-		this.revsil = new Revsil("", {shards: 1, sharding: false});
+		this.revsil = new Revsil("");
 		this.revsil.shards.map(shard => {
 			this.handleRevolt(this.revsil.shards.get(shard.id));
 		})
